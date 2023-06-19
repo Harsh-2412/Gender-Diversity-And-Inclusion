@@ -1,4 +1,4 @@
-# Pwc Switzerland Power BI virtual case experience - Diversity and Inclusion Analysis
+# Pwc Switzerland Power BI virtual case experience - Gender Diversity and Inclusion Analysis
 
 ![GenderDiversityDashboard ](https://github.com/Harsh-2412/Gender-Diversity-And-Inclusion/assets/110857650/49e666fe-9fbe-4129-9dda-5005710a3b23)
 
